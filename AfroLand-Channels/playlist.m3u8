@@ -1,3 +1,33 @@
 #EXTM3U
-# Add your AfroLand channels here
-# African and diaspora content
+#EXTINF:-1   group-title="Afroland",AfroLand African (1080p)
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6075
+#EXTINF:-1   group-title="Afroland",Afroland AfroKiddos (720p)
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16484
+#EXTINF:-1   group-title="Afroland",AfroLand Black Experience (1080p)
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6101
+#EXTINF:-1   group-title="Afroland",AfroLand Comedy (1080p)
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6068
+#EXTINF:-1   group-title="Afroland",AfroLand Crime (1080p)
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6070
+#EXTINF:-1   group-title="Afroland",Afroland Documentary (814p)
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6071
+#EXTINF:-1   group-title="Afroland",AfroLand Drama (720p)
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6067
+#EXTINF:-1   group-title="Afroland",AfroLand Faith (720p)
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6077
+#EXTINF:-1   group-title="Afroland",AfroLand Family (720p)
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6072
+#EXTINF:-1   group-title="Afroland",Afroland Featured (948p)
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6057
+#EXTINF:-1   group-title="Afroland",AfroLand Nollywood (720p)
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6076
+#EXTINF:-1   group-title="Afroland",AfroLand Romance (1080p)
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6074
+#EXTINF:-1   group-title="Afroland",AfroLand Thriller (720p)
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6073
+#EXTINF:-1   group-title="Afroland",Afroland Top 10 (948p)
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6098
+#EXTINF:-1   group-title="Afroland",AfroLandTV (1080p)
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=844
+#EXTINF:-1   group-title="Afroland",AfroLandTV WW (1080p)
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=15235
