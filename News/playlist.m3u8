@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ABCNews.au@Sydney" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="News",ABC News (720p)
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+#EXTINF:-1 tvg-id="Africa24.en" tvg-logo="https://i.imgur.com/africa24.png" group-title="News",Africa24News
+https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/chunklist_w1457417825.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News",Al Jazeera
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk@Europe" group-title="News",BBC News Europe (576p)
+http://46.32.176.50/bbcworld/index.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk@NorthAmerica" group-title="News",BBC News North America (720p)
+http://206.212.244.63/14/index.m3u8
+#EXTINF:-1 tvg-id="CBSNews.us" tvg-logo="https://i.imgur.com/cbsnews.png" group-title="News",CBS News
+https://cbsn-us-vtt.cbsnstream.cbsnews.com/out/v1/ef868690d34144509eda696884bf1619/master_8.m3u8
+#EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://i.imgur.com/cnn.png" group-title="News",CNN
+https://d2ufudlfb4rsg4.cloudfront.net/cnn/5VV1iZtTb/adaptive/hls_manifests/5VV1iZtTb_hd720.m3u8
+#EXTINF:-1 tvg-id="DW.en" tvg-logo="https://i.imgur.com/dw.png" group-title="News",DW News
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="France24English.fr" tvg-logo="https://i.imgur.com/france24.png" group-title="News",France 24 English
+https://d2ufudlfb4rsg4.cloudfront.net/france24english/PYpCcAOWb/adaptive/PYpCcAOWb_master.m3u8
+#EXTINF:-1 tvg-id="GlobalNews.ca" tvg-logo="https://i.imgur.com/globalnews.png" group-title="News",Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+#EXTINF:-1 tvg-id="i24NEWSEnglishWorld.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" group-title="News",i24NEWS English World (1080p)
+https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-id="IranPress.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/%D9%84%D9%88%DA%AF%D9%88_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%D9%BE%D8%B1%D8%B3.jpg/960px-%D9%84%D9%88%DA%AF%D9%88_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%D9%BE%D8%B1%D8%B3.jpg" group-title="News",Iran Press
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8
+#EXTINF:-1 tvg-id="dummy.nbcpng" tvg-logo="https://i.imgur.com/nbc.png" group-title="News",NBC TV Papua New Guinea
+https://205444.global.ssl.fastly.net/64ee8a084b935f9f8a6f8825/live_ab333a6093bc11eeb89fbd81423485b7/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="News12NewYork.us@SD" tvg-logo="https://i.imgur.com/Ez7qAZP.png" group-title="News",News 12 New York (1080p)
+https://aegis-cloudfront-1.tubi.video/97fbb992-c212-4164-8406-abb6f731e517/playlist.m3u8
+#EXTINF:-1 tvg-id="NewsCentral.ng@SD" tvg-logo="https://i.imgur.com/qvCgI8N.png" group-title="News",News Central
+https://wf.newscentral.ng:8443/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Newsmax2.us@SD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/newsmax-2-us-ug.png" group-title="News",Newsmax 2 (1080p)
+https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ReutersTV.us@SD" tvg-logo="https://i.imgur.com/6eQ2nCJ.png" group-title="News",Reuters (1080p)
+https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="RTNews.ru" tvg-logo="https://i.imgur.com/rt.png" group-title="News",RT News
+https://rt-glb.rttv.com/live/rtnews/playlist_2500Kb.m3u8
+#EXTINF:-1 tvg-id="dummy.sabclahae" tvg-logo="https://i.imgur.com/sabc.png" group-title="News",SABC Lahae
+https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-id="SABCNews.za" tvg-logo="https://i.imgur.com/sabc.png" group-title="News",SABC News
+https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b250000_t64MjQwcA==.m3u8
+#EXTINF:-1 tvg-id="ScrippsNews.us" tvg-logo="https://i.imgur.com/scripps.png" group-title="News",Scripps News
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://i.imgur.com/trtworld.png" group-title="News",TRT World
+https://tv-trtworld.medya.trt.com.tr/master_1440.m3u8
