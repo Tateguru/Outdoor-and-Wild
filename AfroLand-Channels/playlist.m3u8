@@ -1,33 +1,48 @@
 #EXTM3U
-#EXTINF:-1   group-title="Afroland",AfroLand African (1080p)
+#EXTINF:-1 group-title="Entertainment",AfroLand African (1080p)
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6075
-#EXTINF:-1   group-title="Afroland",Afroland AfroKiddos (720p)
+
+#EXTINF:-1 group-title="Kids",Afroland AfroKiddos (720p)
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16484
-#EXTINF:-1   group-title="Afroland",AfroLand Black Experience (1080p)
+
+#EXTINF:-1 group-title="Culture",AfroLand Black Experience (1080p)
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6101
-#EXTINF:-1   group-title="Afroland",AfroLand Comedy (1080p)
+
+#EXTINF:-1 group-title="Comedy",AfroLand Comedy (1080p)
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6068
-#EXTINF:-1   group-title="Afroland",AfroLand Crime (1080p)
+
+#EXTINF:-1 group-title="Crime",AfroLand Crime (1080p)
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6070
-#EXTINF:-1   group-title="Afroland",Afroland Documentary (814p)
+
+#EXTINF:-1 group-title="Documentary",Afroland Documentary (814p)
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6071
-#EXTINF:-1   group-title="Afroland",AfroLand Drama (720p)
+
+#EXTINF:-1 group-title="Drama",AfroLand Drama (720p)
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6067
-#EXTINF:-1   group-title="Afroland",AfroLand Faith (720p)
+
+#EXTINF:-1 group-title="Religion",AfroLand Faith (720p)
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6077
-#EXTINF:-1   group-title="Afroland",AfroLand Family (720p)
+
+#EXTINF:-1 group-title="Family",AfroLand Family (720p)
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6072
-#EXTINF:-1   group-title="Afroland",Afroland Featured (948p)
+
+#EXTINF:-1 group-title="Entertainment",Afroland Featured (948p)
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6057
-#EXTINF:-1   group-title="Afroland",AfroLand Nollywood (720p)
+
+#EXTINF:-1 group-title="Movies",AfroLand Nollywood (720p)
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6076
-#EXTINF:-1   group-title="Afroland",AfroLand Romance (1080p)
+
+#EXTINF:-1 group-title="Romance",AfroLand Romance (1080p)
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6074
-#EXTINF:-1   group-title="Afroland",AfroLand Thriller (720p)
+
+#EXTINF:-1 group-title="Thriller",AfroLand Thriller (720p)
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6073
-#EXTINF:-1   group-title="Afroland",Afroland Top 10 (948p)
+
+#EXTINF:-1 group-title="Entertainment",Afroland Top 10 (948p)
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6098
-#EXTINF:-1   group-title="Afroland",AfroLandTV (1080p)
+
+#EXTINF:-1 group-title="Entertainment",AfroLandTV (1080p)
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=844
-#EXTINF:-1   group-title="Afroland",AfroLandTV WW (1080p)
+
+#EXTINF:-1 group-title="Entertainment",AfroLandTV WW (1080p)
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=15235
